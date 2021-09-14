@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "guardar e modificar/1.0.0": {
+        "runtime": {
+          "guardar e modificar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guardar e modificar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

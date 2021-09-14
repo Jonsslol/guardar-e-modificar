@@ -1,0 +1,26 @@
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.exe
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.deps.json
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.runtimeconfig.json
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.runtimeconfig.dev.json
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.dll
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.pdb
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.csprojAssemblyReference.cache
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.AssemblyInfoInputs.cache
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.AssemblyInfo.cs
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.csproj.CoreCompileInputs.cache
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.dll
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.pdb
+C:\Users\jvqua\source\repos\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.exe
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.deps.json
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.runtimeconfig.json
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.runtimeconfig.dev.json
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.dll
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\bin\Debug\netcoreapp3.1\guardar e modificar.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.dll
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\guardar e modificar\guardar e modificar\obj\Debug\netcoreapp3.1\guardar e modificar.genruntimeconfig.cache
